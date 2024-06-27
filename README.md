@@ -7,8 +7,6 @@ The To-Do List Application is a simple, user-friendly tool designed to help you 
 - **Edit Tasks**: Update existing tasks to keep your list current.
 - **Delete Tasks**: Remove tasks that are no longer needed.
 
-
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Node.js, Express.js
-- 
